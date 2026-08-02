@@ -50,4 +50,13 @@ The system also includes an AI-based image classification module that helps iden
 
 ---
 
-## Project Structure
+## Current Status
+
+The project implementation has been completed.  
+The source code is being organized and uploaded to this repository.
+
+---
+
+## Team Project
+
+Final Year Capstone Project
