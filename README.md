@@ -31,13 +31,10 @@ The system also includes an AI-based image classification module that helps iden
 - WebSocket
 
 ### Frontend
-- HTML
-- CSS
-- JavaScript
-- React (if applicable)
+- React Native
 
 ### AI Service
-- FastAPI
+- Flask
 - TensorFlow / Keras
 - ResNet-50
 
